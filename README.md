@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou o Luiz Ferraz 👋
 
 ### Sobre mim
 Sou Gerente de Projetos e Tech Manager com mais de 19 anos de experiência na área de TI. Iniciei minha jornada em 2005, e nos últimos 7 anos, tenho me dedicado a liderar e desenvolver times de alta performance. 
