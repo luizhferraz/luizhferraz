@@ -41,6 +41,7 @@ Nos últimos 7 anos, atuei em times dedicados ao desenvolvimento de soluções d
 ### Me encontre aqui:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-ferraz/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/luizhferraz/) 
+<a href="https://discord.com/users/luizhferraz" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhferraz/) 
 [![Gmail](https://img.shields.io/badge/-luizhferraz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luizhferraz@gmail.com)](mailto:luizhferraz@gmail.com) 
 
