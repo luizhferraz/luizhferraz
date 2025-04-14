@@ -10,7 +10,7 @@ Minha expertise abrange desde desenvolvimento mobile e backends Java até a gest
 - **Infraestrutura de TI**: Liderança de times voltados para cloud, DevOps e automação de infraestrutura.
 
 ### Experiência Recente
-Nos últimos 7 anos, atuei em times dedicados ao desenvolvimento de soluções de alta qualidade, trabalhando de forma colaborativa e ágil para entregar resultados excepcionais.
+Nos últimos 8 anos, atuei em times dedicados ao desenvolvimento de soluções de alta qualidade, trabalhando de forma colaborativa e ágil para entregar resultados excepcionais.
 
 ## Ferramentas e Tecnologias
 <div style="display: inline-block;">
