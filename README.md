@@ -1,16 +1,47 @@
-# Olá! Eu sou o Luiz Ferraz 👋
+# 👋 Olá, eu sou o Luiz Henrique Ferraz
 
-### Sobre mim
-Sou Gerente de Projetos e Tech Manager com mais de 19 anos de experiência na área de Tecnologia da Informação. Desde o início da minha carreira, em 2005, venho construindo uma trajetória sólida e diversificada, marcada pelo desenvolvimento contínuo e pela paixão em impulsionar resultados. Nos últimos 7 anos, tenho atuado de forma ativa na liderança e no desenvolvimento de times de alta performance, com foco em excelência, inovação e entrega de valor.
+💻 **Gerente de Projetos | Tech Manager | Agile Expert | AWS Certified | ITIL V4 Certified**
 
-Minha especialidade engloba desde o desenvolvimento de soluções mobile e backends em Java até a gestão completa de equipes de infraestrutura. Navego com facilidade entre o mundo técnico e a gestão de pessoas, promovendo integração, crescimento e entregas consistentes.
+Com mais de **19 anos de experiência em Tecnologia da Informação**, venho construindo uma jornada movida por desafios, aprendizado contínuo e o prazer de ver ideias ganharem vida. Desde 2005, minha trajetória combina **tecnologia, gestão e pessoas** — três pilares que me motivam todos os dias.
 
-### Habilidades & Expertise
-Gerenciamento de Projetos: Planejamento estratégico, coordenação de equipes multifuncionais e entrega de soluções complexas com eficiência.
-Tech Management: Gestão de times multidisciplinares, promovendo ambientes colaborativos, inovação e foco tanto em desenvolvimento quanto em infraestrutura.
-Infraestrutura de TI: Liderança de equipes especializadas em cloud, DevOps e automação, garantindo operações robustas, seguras e escaláveis.
-Experiência Recente
-Nos últimos 8 anos, estive à frente de equipes dedicadas ao desenvolvimento de soluções de alta qualidade, atuando em ambientes colaborativos e metodologias ágeis. Minha missão tem sido transformar desafios em resultados concretos, sempre priorizando a excelência e o crescimento coletivo.
+Nos últimos **7 anos**, tenho me dedicado à **liderança e desenvolvimento de times de alta performance**, unindo o melhor dos mundos: **gestão estratégica** e **background técnico sólido**.
+
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonado por criar ambientes onde **tecnologia e pessoas crescem juntas**.  
+Já atuei com **soluções mobile**, **backends em Java** e **infraestrutura de TI** — e aprendi que o verdadeiro sucesso técnico nasce quando há **colaboração, propósito e cultura de excelência**.
+
+🔹 **De código a liderança**, eu navego bem entre os dois universos.  
+🔹 Gosto de conectar dots, destravar gargalos e simplificar o que parece complexo.  
+🔹 E claro: café ☕ + boas conversas de arquitetura sempre são bem-vindos.
+
+---
+
+## 🧩 Habilidades & Expertise
+
+🎯 **Gerenciamento de Projetos**
+- Planejamento estratégico e coordenação de equipes multifuncionais  
+- Entregas complexas com foco em eficiência, qualidade e valor  
+
+⚙️ **Tech Management**
+- Gestão de times multidisciplinares (dev, infra, QA, produto)  
+- Promoção de ambientes colaborativos e inovadores  
+- Acompanhamento de roadmaps e métricas de performance  
+
+☁️ **Infraestrutura de TI**
+- Cloud, DevOps e automação  
+- Ambientes seguros, escaláveis e altamente disponíveis  
+
+---
+
+## 🔥 Experiência Recente
+
+Nos últimos **8 anos**, estive à frente de **equipes ágeis** dedicadas a entregar soluções de **alto impacto** para negócios diversos.  
+Minha missão: **transformar desafios em resultados concretos**, priorizando **excelência técnica** e **crescimento coletivo**.
+
+---
 
 ## Ferramentas e Tecnologias
 <div style="display: inline-block;">
